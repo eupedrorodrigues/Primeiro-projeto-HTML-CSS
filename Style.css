@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: #e6e6e6;
+}
+
+.div1{
+    background-color: whitesmoke;
+    text-align: left;
+    box-shadow: 5px 3px 5px black;
+}
+
+.div2{
+    text-align: left;
+    font-size: 24px;
+    
+
+}
